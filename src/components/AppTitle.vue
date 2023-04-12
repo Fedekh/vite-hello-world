@@ -3,7 +3,7 @@ export default {
     name: 'AppTitle',
     data(){
         return {
-            title: "La mia prima app con Vite!"
+            title: "La mia prima app con Vite! (Ci proviamo)"
         }
     }
 }
@@ -19,6 +19,6 @@ export default {
 h1 {
     color: red;
     text-align: center;
-    margin: 100px 0;
+    /* margin: 60px 0; */
 }
 </style>
